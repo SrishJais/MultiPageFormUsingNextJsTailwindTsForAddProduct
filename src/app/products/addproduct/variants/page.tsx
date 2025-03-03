@@ -83,7 +83,7 @@ const Variants = () => {
               <thead>
                 <tr className="flex gap-[8px]">
                   <th className="pl-0 w-[140px] text-sm text-mytextblack font-myFontWorksans font-normal">
-                    name *
+                    Option *
                   </th>
                   <th className="pl-0 w-[280px] text-sm text-mytextblack font-myFontWorksans font-normal">
                     Values *
@@ -169,7 +169,7 @@ const Variants = () => {
                 className="ml-1 text-sm text-primary font-myFontWorksans font-normal"
                 onClick={handleAddRow}
               >
-                Add name
+                Add Option
               </h6>
             </div>
             {variantError && <p className="text-[#EE2A2A] text-xs font-myFontWorksans font-normal mt-1">{variantError}</p>}
