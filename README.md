@@ -10,6 +10,7 @@ This project consists of -
 1)only the Products screen in sidebar
 
 2) *Products Screen*
+
  i) *Add category* *functionality* -  add a category in the grid.
 
 ii) *Add product functionality*-  redirect the user to a new form.
