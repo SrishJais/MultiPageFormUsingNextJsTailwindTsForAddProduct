@@ -2,8 +2,11 @@
 https://multi-page-form-using-next-js-tailwind-ts-for-add-product.vercel.app/
 
 # Project description 
+
 This is the figma to design conversion project.
+
 This project consists of -
+
 1)only the Products screen in sidebar
 2) *Products Screen* 
  i) *Add category* *functionality* -  add a category in the grid.
