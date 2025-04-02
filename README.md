@@ -9,7 +9,7 @@ This project consists of -
 
 1)only the Products screen in sidebar
 
-2) *Products Screen*
+2)*Products Screen*
 
  i) *Add category* *functionality* -  add a category in the grid.
 
